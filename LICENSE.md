@@ -1,4 +1,4 @@
-# 
+# Instant JetBrains PyCharm templates for Mac OS | Updated JetBrains PyCharm templates for PC Windows. Featuring Docker-compose and gitflow-support — optimized for maximum performance on every platform.
 
 
 
